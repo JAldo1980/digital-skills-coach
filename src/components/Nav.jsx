@@ -19,7 +19,7 @@ function Nav() {
             <h4>Services</h4>
           </Link>
           <Link
-            to="results" // Replace "impact" with the actual ID of your Impact component
+            to="services" // Replace "impact" with the actual ID of your Impact component
             smooth={true}
             duration={500}
           >
