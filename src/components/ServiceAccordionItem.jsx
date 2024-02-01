@@ -22,3 +22,5 @@ const ServiceAccordionItem = ({ title, content }) => {
 };
 
 export default ServiceAccordionItem;
+
+// need to re-style the above
